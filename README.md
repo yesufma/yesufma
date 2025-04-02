@@ -10,4 +10,4 @@
 
 ##  Let's Connect  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Yusuf-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/yusufmohammednur)  
-[![GitHub](https://img.shields.io/badge/GitHub-Yesufma-black?style=flat&logo=github)](https://github.com/yesufma)  
+[![GitHub](https://img.shields.io/badge/GitHub-Yusuf-black?style=flat&logo=github)](https://github.com/yesufma)  
