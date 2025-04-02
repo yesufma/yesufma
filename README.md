@@ -1,16 +1,13 @@
- Hi, I'm Yusuf 👋
+# Hi, I'm Yusuf 👋  
 
-I’m an MSc graduate in **Water Supply and Environmental Engineering** with a strong background in **Building Site Supervision**, **Property Valuation**, and **Data Science**. I have expertise in scientific research, data analytics, GIS, and machine learning, and I’m passionate about leveraging data to solve complex problems.
+ MSc in **Water Supply & Environmental Engineering** with expertise in **Building Supervision, Property Valuation, and Data Science**. Passionate about leveraging data for impactful solutions.  
 
- Expertise
-- **Building Site Supervision**: Experienced in managing and overseeing construction projects, ensuring quality, safety, and timely completion.
-- **Property Valuation**: Skilled in asset valuation, including residential, commercial, and industrial properties.
-- **Data Science**: Proficient in **Python** and **SQL**, with hands-on experience in **data analysis**, **machine learning**, and **geospatial analysis**.
-- **GIS**: Experienced in working with geospatial data for environmental and infrastructure-related projects.
-- **Scientific Research**: Strong analytical skills in conducting research, analyzing data, and applying findings to real-world problems.
+## 🔹 Expertise  
+-  **Construction Supervision** – Ensuring quality, safety & efficiency in projects.  
+-  **Property Valuation** – Skilled in asset valuation across various sectors.  
+-  **Data Science** – Proficient in **Python, SQL, Machine Learning & GIS**.  
+-  **GIS & Research** – Applying data analytics to environmental & infrastructure projects.  
 
-
-
-  Let's Connect
-- [LinkedIn](https://www.linkedin.com/in/yusufmohammednur)
-- [GitHub](https://github.com/yesufma)
+##  Let's Connect  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Yusuf-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/yusufmohammednur)  
+[![GitHub](https://img.shields.io/badge/GitHub-Yesufma-black?style=flat&logo=github)](https://github.com/yesufma)  
