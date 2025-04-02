@@ -1,4 +1,4 @@
-# Hi, I'm Yusuf 👋  
+# Hi there, I'm Yusuf 👋  
 
  MSc in **Water Supply & Environmental Engineering** with expertise in **Building Supervision, Property Valuation, and Data Science**. Passionate about leveraging data for impactful solutions.  
 
