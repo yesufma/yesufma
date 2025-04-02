@@ -1,4 +1,4 @@
-# Hi, I'm Yesuff 👋
+# Hi, I'm Yusuf Mohammednur 👋
 
 I’m an MSc graduate in **Water Supply and Environmental Engineering** with a strong background in **Building Site Supervision**, **Property Valuation**, and **Data Science**. I have expertise in scientific research, data analytics, GIS, and machine learning, and I’m passionate about leveraging data to solve complex problems.
 
