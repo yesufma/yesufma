@@ -8,9 +8,23 @@ MSc in **Water Supply & Environmental Engineering** with expertise in **Building
 -  **Data Science** – Proficient in **Python, SQL, Machine Learning & GIS**.  
 -  **GIS & Research** – Applying data analytics to environmental & infrastructure projects.  
 
-## 📊 Most Used Languages  
+## 📊 Statistics  
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yesufma&layout=compact&theme=default)
+### Most Used Languages  
+
+| Language   | Usage (%) |
+|------------|-----------|
+| Vue        | 57.26%    |
+| SCSS       | 13.43%    |
+| PHP        | 12.62%    |
+| TypeScript | 7.53%     |
+| HTML       | 5.51%     |
+| JavaScript | 3.07%     |
+| Java       | 0.35%     |
+| Blade      | 0.23%     |
+
+<!-- Optionally, use dynamic stats instead of the static table above -->
+<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yesufma&langs_count=8&layout=compact&theme=default) -->
 
 ## 🤝 Let's Connect  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Yusuf-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/yusufmohammednur)  
