@@ -8,9 +8,9 @@ MSc in **Water Supply & Environmental Engineering** with expertise in **Building
 -  **Data Science** – Proficient in **Python, SQL, Machine Learning & GIS**.  
 -  **GIS & Research** – Applying data analytics to environmental & infrastructure projects.  
 
-## 📊 Most Used Languages  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yesufma&layout=compact&theme=default)
-
 ## Let's Connect  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Yusuf-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/yusufmohammednur)  
 [![GitHub](https://img.shields.io/badge/GitHub-Yusuf-black?style=flat&logo=github)](https://github.com/yesufma)
+
+## 📊 Most Used Languages  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yesufma&layout=compact&theme=default)
