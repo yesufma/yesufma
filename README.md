@@ -9,7 +9,7 @@ Civil Engineer with a passion for **Machine Learning and Data-Driven Solutions**
 ## 🔹 Expertise  
 -  **Construction Supervision** – Ensuring quality, safety & efficiency in projects.  
 -  **Property Valuation** – Skilled in real estate valuation across various sectors.  
--  **Data Science** – Proficient in **Python, SQL, Machine Learning & GIS**.  
+-  **Data Science** – Proficient in **Python, R, SQL, GIS**.  
 -  **GIS & Research** – Applying data analytics to environmental & infrastructure projects.  
 
 ---
