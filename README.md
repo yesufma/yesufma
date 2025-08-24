@@ -1,6 +1,6 @@
 # Hi there, I'm Yusuf 👋  
 
-MSc in **Water Supply & Environmental Engineering** with expertise in **Building Construction Supervision, Property Valuation, and Data Science**. Passionate about leveraging data for impactful solutions.  
+Civil Engineer with a passion for **Machine Learning and Data-Driven Solutions**, with expertise in **Building Construction Supervision, Property Valuation, and Data Science**. Dedicated to leveraging data for impactful solutions.  
 
 <p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=yesufma&label=Profile%20views&color=0e75b6&style=flat" alt="Yusuf's profile views" /> 
