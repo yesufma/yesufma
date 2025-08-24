@@ -9,7 +9,7 @@
 ## 🔹 Expertise  
 -  **Construction Supervision** – Ensuring quality, safety & efficiency in projects.  
 -  **Property Valuation** – Skilled in real estate valuation across various sectors.  
--  **Data Science** – Proficient in **Python, R, SQL, GIS**.  
+-  **Data Science** – Proficient in **Python, R, Matlab, SQL, GIS**.  
 -  **GIS & Research** – Applying data analytics to environmental & infrastructure projects.  
 
 ---
